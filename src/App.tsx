@@ -19,6 +19,7 @@ function App() {
           Learn React
         </a>
         <p>Lorem ipsum dolor sit amet.</p>
+        <p>2.</p>
       </header>
     </div>
   );
